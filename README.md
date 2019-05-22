@@ -1,1 +1,1 @@
-# manojown.github.io
+# https://manojown.github.io/resume/
