@@ -149,7 +149,7 @@ $(document).ready(function() {
         });
         // start numbers animate at skills section //
         $("#chart_num_1").animateNumber({
-            number: 88
+            number: 80
         }, 1500);
         $("#chart_num_2").animateNumber({
             number: 75
